@@ -1,0 +1,18 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>D:\Rutgers\Makerspace (work)\LaserGuard\LaserGuard.kicad_sch</h1>
+    <p>2/23/2021 11:20:09 AM</p>
+    <p>Eeschema (5.99.0-9141-g14cba9723f)</p>
+    <p><b>Component Count:</b>4</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Datasheet</th><th>Description</th><th>Vendor</th></tr><tr><td>J1</td><td>1</td><td>Conn_01x06</td><td>Connector_Generic:Conn_01x06</td><td>https://www.mouser.com/ProductDetail/Molex/47346-0001/</td><td>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J3</td><td>1</td><td>Conn_01x05</td><td>Connector_Generic:Conn_01x05</td><td>https://www.mouser.com/ProductDetail/Molex/67643-0910</td><td>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>Q1, Q2</td><td>2</td><td>Q_NMOS_PMN34LN,135</td><td>LaserGuardLib:Q_NMOS_PMN34LN,135</td><td>https://www.digikey.com/en/products/detail/nxp-usa-inc/PMN34LN-135/13441163</td><td>N-MOSFET transistor, gate/drain/source</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
